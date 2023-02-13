@@ -12,6 +12,7 @@
         <module>nacos-server</module>
         <module>nacos-feign-client</module>
         <module>nacos-feign-server</module>
+        <module>nacos-config</module>
     </modules>
     <packaging>pom</packaging>
 

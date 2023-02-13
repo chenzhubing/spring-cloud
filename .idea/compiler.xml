@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nacos-config" />
         <module name="nacos-feign-server" />
         <module name="nacos-feign-client" />
         <module name="nacos-server" />
